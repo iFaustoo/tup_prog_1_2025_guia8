@@ -49,7 +49,7 @@ namespace Ej1
             Console.WriteLine("2. Procesar varios números");
             Console.WriteLine("3. Mostrar máximo y mínimo");
             Console.WriteLine("4. Mostrar promedio");
-                Console.WriteLine("5. Mostrar cantidad de números ingresados");
+            Console.WriteLine("5. Mostrar cantidad de números ingresados");
             Console.WriteLine("6. Reiniciar variables");
             Console.WriteLine("(Presione cualquier tecla). Salir");
             int rta = Convert.ToInt32(Console.ReadLine());
